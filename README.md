@@ -14,9 +14,9 @@
 
 ### chapter_02
 
-* [练习 2.1](https://github.com/xinghelanchen/introduction_to_algorithms/blob/master/chapter_01/2.1.md)
+* [练习 2.1](https://github.com/xinghelanchen/introduction_to_algorithms/blob/master/chapter_02/2.1.md)
 
-* [练习 2.2](https://github.com/xinghelanchen/introduction_to_algorithms/blob/master/chapter_01/2.2.md)
+* [练习 2.2](https://github.com/xinghelanchen/introduction_to_algorithms/blob/master/chapter_02/2.2.md)
 
 
 
