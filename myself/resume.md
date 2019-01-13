@@ -9,8 +9,7 @@
 
 # 技能
 
-* 熟练掌握 java 基础、多线程、JVM，熟悉 Spring Boot、MyBatis 等后端框架。
-
+- 熟练掌握 java 基础、多线程、JVM，熟悉 Spring Boot、MyBatis 等后端框架。
 - 熟悉面向对象思想、常用的设计模式、数据结构和算法。
 - 熟悉 MySQL 数据库。
 - 熟悉 zookeeper、Redis 缓存，分布式锁。
