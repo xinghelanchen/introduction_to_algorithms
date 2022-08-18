@@ -7,8 +7,8 @@
 * 本科：山西农业大学
 * 专业：软件工程
 * 博客：https://xinghelanchen.github.io
-* 手机：15611769223
-* Email：yt975548277@gmail.com
+* 手机：MTU2MTE3NjkyMjM=
+* Email：eXQ5NzU1NDgyNzcjZ21haWwuY29t
 * 求职意向：java 开发工程师
 
 
